@@ -1,0 +1,8 @@
+Binary Trees
+Each node has atmost 2 children
+
+-> Full Binary Tree : Each node has either 0 or 2 children
+-> Complete Binary Tree : All levels are completely filled except the last level, the last level has all nodes as left as possible
+-> Perfect Binary Tree : All leaf nodes are at the same level
+-> Balanced Binary Tree : Height of the tree should be at max log(N) where N is the number of nodes
+-> Degenerate Tree : Every node has a single child
